@@ -63,7 +63,7 @@ export const ArtInn = () => (
     <R c={<><span className="text-amber-800">      ▄▄▄▄▄▄     </span></>} />
     <R c={<><span className="text-amber-700">    ▄████████▄   </span></>} />
     <R c={<><span className="text-amber-600">   ▐▓▓▓▓▓▓▓▓▓▓▌  </span><span className="text-yellow-500"> S</span></>} />
-    <R c={<><span className="text-stone-600">   ▐{L}{L}{L}{L}{L}{L}{L}{L}{L}{L}▌  </span><span className="text-yellow-500"> }</span></>} />
+    <R c={<><span className="text-stone-600">   ▐{L}{L}{L}{L}{L}{L}{L}{L}{L}{L}▌  </span><span className="text-yellow-500">{' }'}</span></>} />
     <R c={<><span className="text-stone-700">   ▐{D}{D}{D}██{D}{D}██{D}{D}▌  </span></>} />
   </ArtBox>
 );
