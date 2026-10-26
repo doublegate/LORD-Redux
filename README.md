@@ -54,7 +54,7 @@ The game is designed to be played primarily with the keyboard, mimicking the ori
 
 ### Prerequisites
 
-*   Node.js (v18+)
+*   Node.js (v20.19+ or v22.12+)
 *   A Google Cloud Project with the **Gemini API** enabled.
 
 ### Installation
